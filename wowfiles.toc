@@ -1,7 +1,7 @@
-## Title: MyDefaults
+## Title: wowfiles
 ## Interface: 60200
 ## Notes: sane defaults for my wow ui
 ## Author: Jan Riethmayer
-## SavedVariables: MyDefaultsDB
+## SavedVariables: wowfilesDB
 
-MyDefaults.lua
+wowfiles.lua
